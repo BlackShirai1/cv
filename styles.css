@@ -1,0 +1,16 @@
+body{
+background-color:azure;
+text-align: center;}
+
+h1 {
+  color:aqua;
+}
+
+h3 {color:aqua;}
+
+hr{
+border-style: dotted none none none;
+border-color:grey;
+border-width:10px;
+width:30%
+}
